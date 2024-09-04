@@ -7,12 +7,6 @@ title: Papers
 
 Below is a curated list of recent and influential papers grouped by research area. This list highlights cutting-edge developments in AI and its applications.
 
-### Large Language Models (LLMs)
-
-1. "GPT-4 Technical Report" (OpenAI, 2023)
-2. "PaLM 2 Technical Report" (Anil et al., 2023)
-3. "Constitutional AI: Harmlessness from AI Feedback" (Bai et al., 2022)
-4. "Scaling Laws for Neural Language Models" (Kaplan et al., 2020)
 
 ### Multimodal AI
 
@@ -27,11 +21,6 @@ Below is a curated list of recent and influential papers grouped by research are
 2. "Large language models encode clinical knowledge" (Singhal et al., 2022)
 3. "A guide to deep learning in healthcare" (Esteva et al., 2019)
 
-### Emerging AI Architectures
-
-1. "Mamba: Linear-Time Sequence Modeling with Selective State Spaces" (Gu et al., 2023)
-2. "Towards Learning Universal Hyperparameter Optimizers with Transformers" (Metz et al., 2023)
-3. "Scaling Vision Transformers to 22 Billion Parameters" (Dehghani et al., 2023)
 
 ### Efficient Fine-tuning and Multimodal Approaches in Medical AI
 
@@ -41,6 +30,20 @@ Below is a curated list of recent and influential papers grouped by research are
 4. "MMBERT: Multimodal BERT Pretraining for Improved Medical VQA" (Kumar et al., 2022)
 5. "MedCLIP: Contrastive Learning from Unpaired Medical Images and Text" (Wu et al., 2023)
 6. "LoRA for Efficient Medical Image Classification: Less is More" (Wang et al., 2023)
+
+### Large Language Models (LLMs)
+
+1. "GPT-4 Technical Report" (OpenAI, 2023)
+2. "PaLM 2 Technical Report" (Anil et al., 2023)
+3. "Constitutional AI: Harmlessness from AI Feedback" (Bai et al., 2022)
+4. "Scaling Laws for Neural Language Models" (Kaplan et al., 2020)
+
+### Emerging AI Architectures
+
+1. "Mamba: Linear-Time Sequence Modeling with Selective State Spaces" (Gu et al., 2023)
+2. "Towards Learning Universal Hyperparameter Optimizers with Transformers" (Metz et al., 2023)
+3. "Scaling Vision Transformers to 22 Billion Parameters" (Dehghani et al., 2023)
+
 
 ### Ethical AI and Bias Mitigation
 
