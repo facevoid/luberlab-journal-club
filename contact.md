@@ -14,4 +14,4 @@ Arlington, Texas 76010
 
 ### Get Involved
 
-If you're interested in joining our journal club or have any questions, please reach out to us at tlp5359@mavs.uta.edu.
+If you're interested in joining our journal club or have any questions, please reach out to us at mxs2361@mavs.uta.edu.
