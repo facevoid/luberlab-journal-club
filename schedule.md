@@ -1,15 +1,13 @@
----
-layout: default
-title: Schedule
----
-
-## Fall 2024 Schedule
+# Fall 2024 Schedule
 
 Our journal club meets every Wednesday to discuss the latest research in artificial intelligence and its applications. Here's our schedule for the Fall 2024 semester:
 
-| Date | Topic | Presenter |
-|------|-------|-----------|
-| September 11, 2024 | Introduction and Semester Overview | TBD |
+| Date | Papers | Presenter |
+|------|--------|-----------|
+| September 11, 2024 | • Visual Instruction Tuning (Zhang et al.) | Saurav |
+|  | • PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation (Li et al.) |  |
+| | TBD | Lucy |
+| | TBD |  |
 | September 18, 2024 | TBD | TBD |
 | September 25, 2024 | TBD | TBD |
 | October 2, 2024 | TBD | TBD |
