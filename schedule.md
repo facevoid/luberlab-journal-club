@@ -4,11 +4,11 @@ Our journal club meets every Wednesday to discuss the latest research in artific
 
 | Date | Papers | Presenter |
 |------|--------|-----------|
-| September 11, 2024 | • Visual Instruction Tuning (Zhang et al.) | Saurav |
-|  | • PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation (Li et al.) |  |
-| | TBD | Lucy |
-| | TBD |  |
-| September 18, 2024 | TBD | TBD |
+| September 11, 2024 | 1. Language models are few-shot learners (Brown et al., 2020) | Lucy |
+|  | 2. Chain-of-thought prompting elicits reasoning in large language models (Wei et al., 2022) |  |
+|  | 3. Language is not all you need: Aligning perception with language models (Huang et al., 2023) |  |
+| | 4. Promptmrg: Diagnosis-driven prompts for medical report generation (Jin et al., 2024) | Saurav |
+| September 18, 2024 | Visual Instruction Tuning (Zhang et al.) | TBD |
 | September 25, 2024 | TBD | TBD |
 | October 2, 2024 | TBD | TBD |
 | October 9, 2024 | TBD | TBD |
