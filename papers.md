@@ -49,11 +49,11 @@ Below is a curated list of recent and influential papers grouped by research are
 4. "Scalable Oversight of AI Systems via Selective Amplification" (Christiano et al., 2023)
 
 ### Prompting and Retrieval
-1. "How to Train Your DRAGON: Diverse Augmentation Towards Generalizable Dense Retrieval" (https://arxiv.org/pdf/2302.07452)
-2. "Unsupervised Dense Information Retrieval with Contrastive Learning" (https://arxiv.org/pdf/2112.09118)
-3. "Automatic Chain of Thought Prompting in Large Language Models" (https://arxiv.org/pdf/2210.03493)
-4. "ReAct: Synergizing reasoning and acting in Language Models" (https://arxiv.org/pdf/2210.03629)
-5. "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks" (https://arxiv.org/pdf/2005.11401)
+1. "How to Train Your DRAGON: Diverse Augmentation Towards Generalizable Dense Retrieval" (Wang et al., 2023)
+2. "Unsupervised Dense Information Retrieval with Contrastive Learning" (Gao & Callan, 2021)
+3. "Automatic Chain of Thought Prompting in Large Language Models" (Zhang et al., 2022)
+4. "ReAct: Synergizing reasoning and acting in Language Models" (Yao et al., 2022)
+5. "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks" (Lewis et al., 2020)
 
 This list is regularly updated based on new publications and research interests of our members.
 
