@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://facevoid.github.io/luberlab-jc-fall24/sitemap.xml

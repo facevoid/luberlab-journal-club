@@ -1,5 +1,14 @@
-title: Luber Lab Journal Club
-description: LLM and Multimodal Vision/Pathology Research
+# Site settings
+title: "Luberlab Journal Club - AI in Healthcare Research"
+description: "Luberlab Journal Club at the University of Texas at Arlington. Discussing cutting-edge research in LLMs, Multimodal Vision, and AI applications in Pathology."
+author: "Luberlab, University of Texas at Arlington"
+email: mxs2361@mavs.uta.edu  # Replace with a contact email if desired
+
+# SEO settings
+tagline: "Luberlab Journal Club: Advancing AI in Healthcare Research"
+keywords: "Luberlab Journal Club, LLM, Multimodal AI, Medical Imaging, Pathology, Artificial Intelligence, Research, UTA"
+
+# URL settings
 baseurl: "/luberlab-jc-fall24"
 url: "https://facevoid.github.io"
 
@@ -7,6 +16,8 @@ url: "https://facevoid.github.io"
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Exclude from processing.
 exclude:
