@@ -5,7 +5,7 @@ Our journal club meets every Wednesday to discuss the latest research in artific
 | Date | Papers | Presenter | Slides |
 |------|--------|-----------|--------|
 | September 11, 2024 | 1. Language models are few-shot learners (Brown et al., 2020) | Lucy | [Slides](/slides/week1/meta_learning.pptx) |
-|  | 2. Chain-of-thought prompting elicits reasoning in large language models (Wei et al., 2022) |  | [Slides](/slides/week1/meta_learning.pptx |
+|  | 2. Chain-of-thought prompting elicits reasoning in large language models (Wei et al., 2022) |  | [Slides](/slides/week1/meta_learning.pptx) |
 |  | 3. Language is not all you need: Aligning perception with language models (Huang et al., 2023) |  | [Slides](/slides/week1/meta_learning.pptx) |
 | | 4. Promptmrg: Diagnosis-driven prompts for medical report generation (Jin et al., 2024) | Saurav | [Slides](/slides/week1/promptmrg.pdf) |
 | September 18, 2024 | Visual Instruction Tuning (Zhang et al.) | TBD | - |
