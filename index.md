@@ -14,8 +14,8 @@ Our journal club is affiliated with the Department of Computer Science and Engin
 
 Here is our next meeting:
 
-- September 25, 2024: Visual Language Models
-  1. CLIP: Learning Transferable Visual Models From Natural Language Supervision (Radford et al., 2021)
-  2. Flamingo: a Visual Language Model for Few-Shot Learning (Alayrac et al., 2022)
+- October 2, 2024: AI in Healthcare and Audio-Visual Learning
+  1. Evaluation and mitigation of the limitations of large language models in clinical decision-making (Hager et al., 2024)
+  2. Mavil: Masked audio-video learners (Huang et al., 2024)
 
 Check our [full schedule]({{ "/schedule" | relative_url }}) for more details and future dates.
