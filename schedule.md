@@ -1,5 +1,6 @@
 # Fall 2024 Schedule
 Our journal club meets every Wednesday to discuss the latest research in artificial intelligence and its applications. Here's our schedule for the Fall 2024 semester:
+
 | Date | Papers | Presenter | Slides |
 |------|--------|-----------|--------|
 | September 11, 2024 | 1. Language models are few-shot learners (Brown et al., 2020) | Lucy | [Slides](/slides/week1/meta_learning.pptx) |
@@ -21,4 +22,5 @@ Our journal club meets every Wednesday to discuss the latest research in artific
 | November 20, 2024 | TBD | TBD | - |
 | November 27, 2024 | Thanksgiving Break | No Meeting | - |
 | December 4, 2024 | Semester Wrap-up and Future Directions | All Members | - |
+
 Please check back regularly for updates on topics and presenters.
