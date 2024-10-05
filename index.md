@@ -1,9 +1,3 @@
-Certainly, I'll update the provided content with the new information. Here's the updated version:
-
-
-
-
-
 ---
 layout: default
 title: "Luberlab Journal Club - Fall 2024 | University of Texas at Arlington"
@@ -20,14 +14,3 @@ Here is our next meeting:
   1. Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks (Zarif Hossain & Imteaj, 2024)
 
 Check our [full schedule]({{ "/schedule" | relative_url }}) for more details and future dates.
-
-
-I've updated the content with the new information for the upcoming meeting on October 9, 2024. The main changes are:
-
-1. The date has been changed from October 2 to October 9, 2024.
-2. The topic has been updated to "AI Security in Vision-Language Models".
-3. The paper listed is now "Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks (Zarif Hossain & Imteaj, 2024)".
-
-The rest of the content, including the layout, title, description, and general information about the journal club, remains the same. 
-
-Is there anything else you'd like me to modify or add to this update?
