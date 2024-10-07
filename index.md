@@ -10,7 +10,10 @@ Our journal club is affiliated with the Department of Computer Science and Engin
 
 ## Upcoming Schedule
 Here is our next meeting:
-- October 9, 2024: AI Security in Vision-Language Models
+- October 9, 2024: AI Security and Multi-Agent Debate in Language Models
   1. Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks (Zarif Hossain & Imteaj, 2024)
+  2. Can LLMs Produce Faithful Explanations For Fact-checking? Towards Faithful Explainable Fact-Checking via Multi-Agent Debate (Kim et al., 2024)
+  3. Improving factuality and reasoning in language models through multiagent debate (Du et al., 2023)
+
 
 Check our [full schedule]({{ "/schedule" | relative_url }}) for more details and future dates.
