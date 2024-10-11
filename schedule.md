@@ -1,6 +1,5 @@
 # Fall 2024 Schedule
 Our journal club meets every Wednesday to discuss the latest research in artificial intelligence and its applications. Here's our schedule for the Fall 2024 semester:
-
 | Date | Papers | Presenter | Slides |
 |------|--------|-----------|--------|
 | September 11, 2024 | 1. Language models are few-shot learners (Brown et al., 2020) | Lucy | [Slides](/slides/week1/meta_learning.pptx) |
@@ -16,7 +15,8 @@ Our journal club meets every Wednesday to discuss the latest research in artific
 | October 9, 2024 | 1. Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks (Zarif Hossain & Imteaj, 2024) | Hayden | - |
 | | 2. Can LLMs Produce Faithful Explanations For Fact-checking? Towards Faithful Explainable Fact-Checking via Multi-Agent Debate (Kim et al., 2024) | Lucy | - |
 | | 3. Improving factuality and reasoning in language models through multiagent debate (Du et al., 2023) | Lucy | - |
-| October 16, 2024 | TBD | TBD | - |
+| October 16, 2024 | 1. Semantic reconstruction of continuous language from non-invasive brain recordings (Tang et al., 2023) | Saurabh | - |
+| | 2. Brain encoding models based on multimodal transformers can transfer across language and vision (Tang et al., 2024) | Saurabh | - |
 | October 23, 2024 | TBD | TBD | - |
 | October 30, 2024 | TBD | TBD | - |
 | November 6, 2024 | TBD | TBD | - |
@@ -24,5 +24,4 @@ Our journal club meets every Wednesday to discuss the latest research in artific
 | November 20, 2024 | TBD | TBD | - |
 | November 27, 2024 | Thanksgiving Break | No Meeting | - |
 | December 4, 2024 | Semester Wrap-up and Future Directions | All Members | - |
-
 Please check back regularly for updates on topics and presenters.
