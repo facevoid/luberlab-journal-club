@@ -1,4 +1,5 @@
 # Fall 2024 Schedule
+
 Our journal club meets every Wednesday to discuss the latest research in artificial intelligence and its applications. Here's our schedule for the Fall 2024 semester:
 
 | Date | Papers | Presenter | Slides |
@@ -18,8 +19,9 @@ Our journal club meets every Wednesday to discuss the latest research in artific
 | | 3. Improving factuality and reasoning in language models through multiagent debate (Du et al., 2023) | Lucy | - |
 | October 16, 2024 | 1. Semantic reconstruction of continuous language from non-invasive brain recordings (Tang et al., 2023) | Saurabh | - |
 | | 2. Brain encoding models based on multimodal transformers can transfer across language and vision (Tang et al., 2024) | Saurabh | - |
-| October 23, 2024 | TBD | TBD | - |
-| October 30, 2024 | TBD | TBD | - |
+| October 23, 2024 | 1. Large language models encode clinical knowledge (Singhal et al.) | Mohamed | - |
+| | 2. Large Language Models as Code Executors: An Exploratory Study (Lyu et al.) | Mohamed | - |
+| October 30, 2024 | AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments (Schmidgall et al., 2024) | Biraaj | - |
 | November 6, 2024 | TBD | TBD | - |
 | November 13, 2024 | TBD | TBD | - |
 | November 20, 2024 | TBD | TBD | - |
