@@ -13,7 +13,7 @@ Our journal club meets every Wednesday to discuss the latest research in artific
 | September 25, 2024 | 1. CLIP: Learning Transferable Visual Models From Natural Language Supervision (Radford et al., 2021) | Parisa | [Slides](/slides/week3/week_3_jc.pdf) |
 | | 2. Flamingo: a Visual Language Model for Few-Shot Learning (Alayrac et al., 2022) | - | [Slides](/slides/week3/week_3_jc.pdf) |
 | October 2, 2024 | 1. Evaluation and mitigation of the limitations of large language models in clinical decision-making (Hager et al., 2024) | Amir | - |
-| | 2. Mavil: Masked audio-video learners (Huang et al., 2024) | TBD | - |
+| | 2. Mavil: Masked audio-video learners (Huang et al., 2024) | Amir | - |
 | October 9, 2024 | 1. Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks (Zarif Hossain & Imteaj, 2024) | Hayden | - |
 | | 2. Can LLMs Produce Faithful Explanations For Fact-checking? Towards Faithful Explainable Fact-Checking via Multi-Agent Debate (Kim et al., 2024) | Lucy | - |
 | | 3. Improving factuality and reasoning in language models through multiagent debate (Du et al., 2023) | Lucy | - |
