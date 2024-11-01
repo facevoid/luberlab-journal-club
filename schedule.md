@@ -22,7 +22,7 @@ Our journal club meets every Wednesday to discuss the latest research in artific
 | October 23, 2024 | 1. Large language models encode clinical knowledge (Singhal et al.) | Mohamed | - |
 | | 2. Large Language Models as Code Executors: An Exploratory Study (Lyu et al.) | Mohamed | - |
 | October 30, 2024 | AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments (Schmidgall et al., 2024) | Biraaj | - |
-| November 6, 2024 | TBD | TBD | - |
+| November 6, 2024 | 1. A pathology foundation model for cancer diagnosis and prognosis prediction (Wang et al., 2024) | TBD | - |
 | November 13, 2024 | TBD | TBD | - |
 | November 20, 2024 | TBD | TBD | - |
 | November 27, 2024 | Thanksgiving Break | No Meeting | - |
