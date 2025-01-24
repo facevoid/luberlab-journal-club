@@ -9,7 +9,7 @@ tagline: "Luberlab Journal Club: Advancing AI in Healthcare Research"
 keywords: "Luberlab Journal Club, LLM, Multimodal AI, Medical Imaging, Pathology, Artificial Intelligence, Research, UTA"
 
 # URL settings
-baseurl: "/luberlab-jc-fall24"
+baseurl: "/luberlab-journal-club"
 url: "https://facevoid.github.io"
 
 # Build settings
