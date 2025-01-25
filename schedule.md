@@ -5,25 +5,25 @@ title: Schedule
 
 # Spring 2025 Schedule
 
-Our journal club meets every Wednesday to discuss the latest research in artificial intelligence and its applications.
+Our journal club meets Wednesdays at 2:30 PM CST.
 
-| Date | Papers | Presenter | Slides |
-|------|--------|-----------|--------|
-| January 17, 2025 | 1. OmniThink: Expanding Knowledge Boundaries in Machine Writing through Thinking<br>2. Comprehensive Modeling and Question Answering of Cancer Clinical Practice Guidelines using LLMs | Saurav | - |
-| January 24, 2025 | 1. ViC-MAE: Self-Supervised Representation Learning from Images and Video with Contrastive Masked Autoencoders<br>2. Masked Image Modeling with Local Multi-Scale Reconstruction | Amir | - |
-| January 31, 2025 | TBD | TBD | - |
-| February 7, 2025 | TBD | TBD | - |
-| February 14, 2025 | TBD | TBD | - |
-| February 21, 2025 | TBD | TBD | - |
-| February 28, 2025 | TBD | TBD | - |
-| March 7, 2025 | TBD | TBD | - |
-| March 14, 2025 | Spring Break | No Meeting | - |
-| March 21, 2025 | TBD | TBD | - |
-| March 28, 2025 | TBD | TBD | - |
-| April 4, 2025 | TBD | TBD | - |
-| April 11, 2025 | TBD | TBD | - |
-| April 18, 2025 | TBD | TBD | - |
-| April 25, 2025 | Semester Wrap-up | All Members | - |
+| Date | Papers | Presenter |
+|:---|:---|:---:|
+| January 22 | • OmniThink: Expanding Knowledge Boundaries in Machine Writing<br>• Comprehensive Modeling and QA of Cancer Guidelines using LLMs | Saurav |
+| January 29 | • ViC-MAE: Self-Supervised Learning from Images and Video<br>• Masked Image Modeling with Local Multi-Scale Reconstruction | Amir |
+| February 5 | TBD | TBD |
+| February 12 | TBD | TBD |
+| February 19 | TBD | TBD |
+| February 26 | TBD | TBD |
+| March 4 | TBD | TBD |
+| March 11 | TBD | TBD |
+| March 18 | _Spring Break - No Meeting_ | - |
+| March 25 | TBD | TBD |
+| April 1 | TBD | TBD |
+| April 8 | TBD | TBD |
+| April 15 | TBD | TBD |
+| April 22 | TBD | TBD |
+| April 29 | Semester Wrap-up | All Members |
 
-# Previous Semesters
+#### Previous Semesters
 [Fall 2024]({{ site.baseurl }}/fall2024.html)

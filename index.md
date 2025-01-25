@@ -10,7 +10,7 @@ Our journal club is affiliated with the Department of Computer Science and Engin
 
 ## Upcoming Schedule
 Here is our next meeting:
-- January 24, 2025
+- January 29, 2025
   1. ViC-MAE: Self-Supervised Representation Learning from Images and Video with Contrastive Masked Autoencoders
   2. Masked Image Modeling with Local Multi-Scale Reconstruction
   
